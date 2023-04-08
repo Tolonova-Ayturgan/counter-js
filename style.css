@@ -1,0 +1,39 @@
+
+.plus{
+    width: 60px;
+    height: 60px;
+    border: 4px solid gold;
+    background-color: springgreen;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+
+.minus{
+    width: 60px;
+    height: 60px;
+    border: 4px solid gold;
+    background-color: coral;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+button:hover{
+    background-color: aqua;
+    color: red;
+}
+
+
+span{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
